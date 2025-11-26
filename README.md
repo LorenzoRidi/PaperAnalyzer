@@ -24,5 +24,5 @@ This project is a multi-agent system for analyzing academic papers.
 To run the agent, execute the following command:
 
 ```bash
-poetry run python PaperAnalyzerAgent/agent.py
+poetry run adk web
 ```
